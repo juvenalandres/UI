@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ui-lovelace-minimalist.github.io/UI/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ui-lovelace-minimalist.github.io/UI/development/docs_style_guide/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ui-lovelace-minimalist.github.io/UI/setup/configuration/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ui-lovelace-minimalist.github.io/UI/setup/install/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ui-lovelace-minimalist.github.io/UI/usage/cards/card_light/</loc>
+         <lastmod>2022-01-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
