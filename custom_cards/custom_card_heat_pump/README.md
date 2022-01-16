@@ -12,7 +12,7 @@ Initial release
 </details>
 
 ## Images
-<img width="563" alt="white_collapse" src="Heat_pump.PNG">
+<img width="563" alt="white_collapse" src="https://github.com/juvenalandres/UI/blob/juvenalandres-dev/custom_cards/custom_card_heat_pump/Heat_pump.PNG?raw=true">
 
 <img width="563" alt="white" src="heat_pump.gif">
 
