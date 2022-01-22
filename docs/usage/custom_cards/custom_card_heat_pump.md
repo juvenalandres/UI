@@ -37,7 +37,7 @@ Initial release
 
 ## Requirements
 
-Entity climate with only heat mode
+Entity climate with hvac options
 
 ## Modification
 
